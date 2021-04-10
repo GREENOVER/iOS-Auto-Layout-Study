@@ -1,2 +1,2 @@
 # iOS-Auto-Layout-Study
-iOS-스타터캠프
+야곰 iOS 캠프 내 캠프들끼리 자체적인 AutoLayout 스터디🧑🏻‍💻
